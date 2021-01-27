@@ -1,0 +1,29 @@
+/* main{
+    background-color: #f5f5f5;
+} */
+
+button{
+    text-align: center;
+    color: #d8d8d8;
+    background-color: #000000;
+}
+
+div[id="highlighted"]{
+    color: #707070;
+}
+
+body
+{
+	/* border: 20px solid #bdc3c7; */
+	padding: 20px;
+	width: 80%;
+	max-width: 700px;
+	margin: 25px auto;
+	text-align: left;
+	background-color: #f5f5f5;
+	/* font-family: 'Raleway', sans-serif; */
+}
+
+a{
+    color: #000000;
+}
